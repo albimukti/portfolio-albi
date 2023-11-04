@@ -20,7 +20,7 @@ const Navbar = () => {
             <img src="/gmail.png" alt="" />
           </a>
           <a href="https://wa.me/085885920126">
-            <img src="/whatsapp.webp" alt="" />
+            <img src="/whatsap1.png" alt="" />
           </a>
           <a href="https://gitlab.com/albimukti">
             <img src="/gitlab.png" alt="" />

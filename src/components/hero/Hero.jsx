@@ -74,7 +74,7 @@ const Hero = () => {
         Fullstack Developer
       </motion.div>
       <div className="imageContainer">
-        <img src="/formal.png" alt="" />
+        <img src="/fotoku.png" alt="" />
       </div>
     </div>
   );
